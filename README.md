@@ -9,3 +9,4 @@ Welcome to my typescript repo
 <h1>Comparison to JS</h1>
 <h3>You can declare types</h3>
 <h3>Add Enums in typescript</h3>
+<h3>Functions</h3>
