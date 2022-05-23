@@ -1,5 +1,5 @@
 # typescript
-typescript debug
+Welcome to my typescript repo
 
 <h1>Why typescript rather writing in JS?</h1>
 <p>Typescript as its name adds type(s) enforcement which JS wont.</p>
