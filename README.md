@@ -1,4 +1,4 @@
-# typescript
+# Typescript
 Welcome to my typescript repo
 
 <h1>Why typescript rather writing in JS?</h1>
